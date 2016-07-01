@@ -1,0 +1,2 @@
+alpine linux embulk + digdag
+============================
